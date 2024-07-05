@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<Landscape updated="2024-07-05T08:54:20Z" version="1" generator="SAP GUI for Windows v7700.1.1.155">
+	<Workspaces>
+		<Workspace uuid="0b8c661a-4bef-4d3c-8c41-80d99fa9e1a3" name="Local">
+			<Node uuid="5b14382f-ad1a-4c97-865f-ea1200070d65" name="Hera">
+				<Item uuid="d62a7f21-f854-488f-ab65-31d1802823c5" serviceid="306d67d1-21a3-4d2f-bbfc-e8553cc19517"/>
+				<Item uuid="ffc9e615-40c9-45de-9a2a-e53cf3b328a9" serviceid="1fbbc72a-8d7c-4862-a84e-c9370b06fae9"/>
+				<Item uuid="0ada635d-793b-44b8-8a83-0f4e4fe20f46" serviceid="fb412898-862c-455e-a8e4-ebbff0df91e2"/>
+				<Item uuid="80b6016c-8468-4192-b06e-60c584eccf83" serviceid="3a9ec394-b849-47ad-a070-342242cdda22"/>
+				<Item uuid="9c85ea3c-0178-46a8-bbfc-923b086b64fa" serviceid="ea593b03-d422-455d-a0f9-f6ac633eb356"/>
+				<Item uuid="ea2463e9-1455-4921-9878-13ef585290c9" serviceid="db9881c4-9028-4853-a04a-e49c28bf7cd2"/>
+			</Node>
+			<Node uuid="e86480c9-253f-4ff4-a97c-8e5a9b023523" name="Gavio">
+				<Item uuid="c573ecf3-41fb-4e01-a162-5715f87a34af" serviceid="dad671ad-4adb-40b5-bfb6-0ea0742b8607"/>
+				<Item uuid="19db6783-9145-4478-865a-92eed021d722" serviceid="c87443da-6851-45b6-bcb6-cd2efa4ecddb"/>
+				<Item uuid="39438082-bbee-4507-b4fc-fa00e4befa66" serviceid="fc2e2c6d-22e8-4375-a200-a0a3c0205464"/>
+			</Node>
+			<Node uuid="1b48ded4-82ec-4cc4-8774-21d7995d014c" name="Alfagomma">
+				<Item uuid="1c5e9685-b962-46e4-a7b6-4bdd705b9bb2" serviceid="a8470ae8-e388-4ef9-bdc4-47f11b07f3b1"/>
+				<Item uuid="aed7ba26-1c71-4115-9115-46d2f0dbf43f" serviceid="8ca549e5-974c-4eea-9cd0-489e435ae7a3"/>
+				<Item uuid="f072d412-eb01-4dd6-9dfa-cd69bc0c49fd" serviceid="a5c1f860-729d-4d6c-951a-064c4930d825"/>
+				<Item uuid="01dfceb9-9e7b-4db1-8088-fda66b1a51c4" serviceid="199c680b-c371-433b-8452-dee5820cab92"/><Item uuid="d5b7fcbe-6036-4f1b-864f-6e884a8604a5" serviceid="7a740731-e7c7-463c-9357-199d8439db41"/></Node>
+			<Node uuid="410dd7e2-a71d-47bd-afd7-80bad13b215e" name="Avvale LAB">
+				<Item uuid="b3a45d19-b68f-496c-a029-1a66bd8753c2" serviceid="3d73d795-db31-414c-b769-e28a432a5148"/>
+			</Node>
+			<Node uuid="9321aff2-8a89-40f3-afe3-0c79e1cba390" name="Della Toffola">
+				<Item uuid="d70fba08-7ba2-4290-9aa6-206984525c6a" serviceid="2fcfe425-a67b-4fff-9f50-3fafcc56a705"/>
+			</Node>
+			<Node uuid="76f5cecc-bc55-4743-9645-7af19aeb0e2e" name="Piaggio">
+				<Item uuid="7ffc0726-d1c8-4342-8bb0-6c43a2016dd8" serviceid="4f03f7da-1a80-4361-8806-79961f11c829"/><Item uuid="42749ce5-ae36-4b47-9dda-f98213c6e976" serviceid="8a0f062f-86d8-42f0-8a34-826a79ec304d"/></Node>
+			<Node uuid="285e68df-ded6-4ebe-aa96-19d1e6dff056" name="AB Holding"><Item uuid="f660a1b5-b43d-42b0-bd30-c16eaedc7642" serviceid="efe9e625-4f4e-4a9d-9ca3-e793a43da868"/><Item uuid="4fa48300-2078-40fa-91a5-6a637b69b8bd" serviceid="48130411-7903-47f7-83b6-70e11a1e3def"/><Item uuid="c2571504-5ad4-4d22-9cfe-07d1f2ad0657" serviceid="55a2c9c9-0f32-4f13-adfb-8294402cfc88"/><Item uuid="85797e6e-6348-44a1-b9ad-471d5b412977" serviceid="00e46d71-3ca0-428d-bc8e-cf9108b93e90"/></Node><Node uuid="61fb6bc9-f24a-4dd2-8096-4f5a352ece12" name="Bonfiglioli"><Item uuid="bb5122d1-e143-496e-89e9-18c173d6a1e9" serviceid="63444f2b-1385-487f-88ca-e68871d43b43"/><Item uuid="30bd2ccd-5faf-415b-bff9-6d1645a0a354" serviceid="b0f5a3a2-d56c-41a5-aec7-51d564130d35"/><Item uuid="4af596d3-f475-440b-93c8-b347ae2daf6a" serviceid="1e3f809c-34af-490d-b209-b74e29f00c5d"/><Item uuid="6d4593b9-c0c5-46f0-9af5-1ac7db42fd12" serviceid="f4f58cd4-37ee-45a5-8e33-9678d316c6cb"/></Node><Node uuid="45251061-c487-4780-b3a9-85592ceee0a1" name="EPTA"><Item uuid="7ef51eed-bac7-4974-b29f-265e2e72851e" serviceid="c7c3f316-0a68-42c4-aa2d-6ebd8a6a47af"/><Item uuid="3c963cf9-2575-4626-9113-ec8f57479891" serviceid="101a6aff-e4ab-40d3-b04e-200533dc5d03"/><Item uuid="aa3a1e82-3d79-4f04-a967-209dbc4c138c" serviceid="a6367eb8-af34-4173-a4a2-2b96ceb001d9"/></Node></Workspace>
+		<Workspace uuid="c4b7b05c-7f9a-42b0-b5bf-00f6e702761f" name="Piaggio">
+			<Item uuid="83b567e8-da2f-4b41-91f4-531ea93602ac" serviceid="316b7098-1865-4007-9785-a246f6f94ee0"/>
+			<Item uuid="12b133cc-4051-409d-bece-8ceea79d182d" serviceid="babd1f38-dccc-4ec0-9ceb-19ab890465ab"/>
+			<Item uuid="6717ad63-e7cd-4caa-bafb-65cbaff8dc76" serviceid="864cbf3e-0287-4761-930a-1a1007bbb342"/>
+			<Item uuid="9238cf5f-43fa-4ea0-9eae-92e081809067" serviceid="dd9f675d-89b0-48ce-8b45-2a4d3caf9d09"/>
+			<Item uuid="9e60c0ed-13f6-4881-9d8c-3ae5432725d4" serviceid="e27fd332-8122-4770-97cd-53641eaec24b"/>
+			<Item uuid="9464cca7-6a87-488d-8f3e-05ca804eb280" serviceid="11978a98-b44c-4640-bd8d-bf8fbdb8f833"/>
+			<Item uuid="8c43a4ac-77d0-4242-b1a6-1cfafcf82f2b" serviceid="ef59d52f-49fc-43d2-98fc-4145c15790f9"/>
+			<Item uuid="697bda16-15f2-4d7a-b1a4-f44f45b5f8f8" serviceid="8ed9872e-16f8-4f4f-a4fb-9201e141b5d3"/>
+			<Item uuid="089baa14-2cf8-43fc-9c01-f2618c6184ae" serviceid="77342f92-b0b4-4a59-9b8d-d57cbcc21b3b"/>
+			<Item uuid="ca0ce38e-c611-4248-88d9-b0e4a446b991" serviceid="48d5a54e-b12c-42a2-9370-6185995527d3"/>
+			<Item uuid="5087b7ab-9e3e-411d-8dbe-9875e2655177" serviceid="1e37b947-0735-4803-bfcf-860cc0714d14"/>
+			<Item uuid="7eb21c5b-67c9-448c-9b07-d664f0762e0c" serviceid="66f548c5-97cf-46c3-94e7-cfccafc87d58"/>
+			<Item uuid="7eb21c5b-67c9-448c-9b07-d664f0762e0f" serviceid="66f548c5-97cf-46c3-94e7-cfccafc87d61"/>
+			<Item uuid="7eb21c5b-67c9-448c-9b07-d664f0762e11" serviceid="66f548c5-97cf-46c3-94e7-cfccafc87d62"/>
+			<Item uuid="03d4ab85-cb49-4827-b91d-3ea01c3e37f3" serviceid="3bb678f8-e89a-471e-b36f-efcc81f03d0e"/>
+			<Item uuid="f917467e-3e3e-4a91-b254-25497f923e01" serviceid="97c83216-969f-44d9-8d52-998327571e64"/>
+			<Item uuid="5cd95b4b-7e46-4949-8053-9c9acd70caeb" serviceid="89528566-af81-4ac7-af6d-b9ad9293f149"/>
+			<Item uuid="50179b25-2254-49c4-a658-9be883c2c1ed" serviceid="b8460878-0ede-495a-be23-7070363349df"/>
+			<Item uuid="90d5dd37-2505-493c-b415-b92e0fe34007" serviceid="6989f007-d6f8-485d-8eab-cf1973a82c67"/>
+			<Item uuid="90d5dd37-2505-493c-b415-b92e0fe34009" serviceid="6989f007-d6f8-485d-8eab-cf1973a82c69"/>
+			<Item uuid="90d5dd37-2505-493c-b415-b92e0fe34010" serviceid="6989f007-d6f8-485d-8eab-cf1973a82c70"/>
+			<Item uuid="90d5dd37-2505-493c-b415-b92e0fe34016" serviceid="6989f007-d6f8-485d-8eab-cf1973a82c76"/>
+		</Workspace>
+	</Workspaces>
+	<Services>
+		<Service type="SAPGUI" uuid="306d67d1-21a3-4d2f-bbfc-e8553cc19517" name="HERA - ECC Preproduzione" systemid="PRP" mode="1" server="isudbq.service.intra:3205" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="1fbbc72a-8d7c-4862-a84e-c9370b06fae9" name="HERA - ECC Sviluppo" systemid="SE6" mode="1" server="isuse6.service.intra:3266" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="fb412898-862c-455e-a8e4-ebbff0df91e2" name="HERA - ECC Quality" systemid="PRQ" mode="1" server="isuprq.service.intra:3202" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="3a9ec394-b849-47ad-a070-342242cdda22" name="HERA - ECC Produzione" systemid="PR1" mode="1" server="isudbp.service.intra:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="ea593b03-d422-455d-a0f9-f6ac633eb356" name="HERA - SRM Test" systemid="SRT" mode="1" server="srmtst.service.intra:3233" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="db9881c4-9028-4853-a04a-e49c28bf7cd2" name="HERA - SRM Sviluppo" systemid="SRD" mode="1" server="10.11.11.14:3217" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="dad671ad-4adb-40b5-bfb6-0ea0742b8607" name="ECC - Sviluppo" systemid="VSE" mode="1" server="10.251.42.16:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="c87443da-6851-45b6-bcb6-cd2efa4ecddb" name="ECC - Test" systemid="SQS" mode="1" server="10.251.42.26:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="fc2e2c6d-22e8-4375-a200-a0a3c0205464" name="ECC - Produzione" systemid="SPS" mode="1" server="10.251.34.36:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="a8470ae8-e388-4ef9-bdc4-47f11b07f3b1" name="ECC - Sviluppo" systemid="IB4" mode="1" server="172.25.1.35:3201" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="8ca549e5-974c-4eea-9cd0-489e435ae7a3" name="ECC - Quality" systemid="TS4" mode="1" server="172.25.1.21:3202" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="a5c1f860-729d-4d6c-951a-064c4930d825" name="ECC - Produzione" systemid="PRS" mode="1" server="172.25.1.85:3275" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="3d73d795-db31-414c-b769-e28a432a5148" name="S4H - LAB" systemid="S4H" mode="1" server="sap-s4h-ib3.r53.avvale.com:3200" sncop="-1" dcpg="2"/>
+		<Service type="SAPGUI" uuid="2fcfe425-a67b-4fff-9f50-3fafcc56a705" name="S4H - Svil" systemid="DS4" mode="1" server="10.100.2.110:3200" sncop="-1" dcpg="2"/>
+		<Service uuid="316b7098-1865-4007-9785-a246f6f94ee0" name="Mytools Prod" url="https://mytools.piaggiogroup.com" type="FIORI"/>
+		<Service type="SAPGUI" uuid="e27fd332-8122-4770-97cd-53641eaec24b" name="01 - SAP S/4 HANA Production PGP" systemid="PGP" msid="959b850a-d5e0-485b-be07-29ea59fbfd6a" server="SPACE" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="ef59d52f-49fc-43d2-98fc-4145c15790f9" name="06 - SAP Solution Manager SPM" systemid="SPM" msid="de38921e-e89f-417c-bb75-1c4f8a6d4468" server="SPACE" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="66f548c5-97cf-46c3-94e7-cfccafc87d58" name="SAP Solution Manager Test SMT" systemid="SMT" mode="1" server="pggsmtst.piaggio.com:3200" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="97c83216-969f-44d9-8d52-998327571e64" name="SAP SLT Quality SLT" systemid="SLT" msid="8e3e1903-8b3b-46fe-9045-0b0d48c0569c" server="SPACE" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="b8460878-0ede-495a-be23-7070363349df" name="SAP SLT Production SLP" systemid="SLP" msid="96e34a2c-42fb-44f0-b45f-a3d6307566c0" server="SPACE" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="6989f007-d6f8-485d-8eab-cf1973a82c67" name="SAP Solution Manager 7.2 Development SMS" systemid="SMS" msid="30f5ca61-4c08-4ca6-8496-1af917e49d17" server="SPACE" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="6989f007-d6f8-485d-8eab-cf1973a82c69" name="SAP Solution Manager 7.2 Production SMP" systemid="SMP" msid="30f5ca61-4c08-4ca6-8496-1af917e49d19" server="SPACE" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="6989f007-d6f8-485d-8eab-cf1973a82c70" name="SAP S/4 HANA Development PGE" systemid="PGE" msid="30f5ca61-4c08-4ca6-8496-1af917e49d20" server="SPACE" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="6989f007-d6f8-485d-8eab-cf1973a82c76" name="11 - SAP S/4 HANA Quality PGC" systemid="PGC" msid="30f5ca61-4c08-4ca6-8496-1af917e49d26" server="SPACE" sncop="-1" sapcpg="1100" dcpg="2"/>
+		<Service type="SAPGUI" uuid="4f03f7da-1a80-4361-8806-79961f11c829" name="S4H - Svil" systemid="PGE" msid="30f5ca61-4c08-4ca6-8496-1af917e49d20" server="SPACE" sncname="p:CN=PGESNC, OU=I0020719416, OU=SAP Web AS, O=SAP Trust Community, C=DE" dcpg="2"/><Service type="SAPGUI" uuid="8a0f062f-86d8-42f0-8a34-826a79ec304d" name="S4H - Test" systemid="PGC" msid="30f5ca61-4c08-4ca6-8496-1af917e49d26" server="SPACE" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="199c680b-c371-433b-8452-dee5820cab92" name="ECC - Sandbox" systemid="QS4" mode="1" server="172.25.1.87:3202" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="efe9e625-4f4e-4a9d-9ca3-e793a43da868" name="[AB] - S4 Svil" systemid="DA1" mode="1" server="192.168.20.172:3200" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="63444f2b-1385-487f-88ca-e68871d43b43" name="S4H Rise" systemid="DS4" mode="1" server="10.210.2.14:3211" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="b0f5a3a2-d56c-41a5-aec7-51d564130d35" name="ECC - Svil" systemid="B6D" mode="1" server="sapb6d1az.bonfiglioli.group:3210" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="1e3f809c-34af-490d-b209-b74e29f00c5d" name="ECC - Prod" systemid="BRP" mode="1" server="10.195.2.11:3202" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="7a740731-e7c7-463c-9357-199d8439db41" name="QS4 S74HANA 2023" systemid="QS4" mode="1" server="10.240.2.28:3211" sncop="-1" dcpg="2" routerid="126c2ce8-f908-4e4f-aa66-b821f58b31e5"/><Service type="SAPGUI" uuid="48130411-7903-47f7-83b6-70e11a1e3def" name="[AB] - S4 Sandbox" systemid="SA1" mode="1" server="192.168.124.21:3200" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="55a2c9c9-0f32-4f13-adfb-8294402cfc88" name="[AB] SA1 - SHADOW" systemid="SA1" mode="1" server="192.168.124.21:3210" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="00e46d71-3ca0-428d-bc8e-cf9108b93e90" name="[AB] - S4H Prod" systemid="PA1" mode="1" server="192.168.20.185:3200" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="c7c3f316-0a68-42c4-aa2d-6ebd8a6a47af" name="[EPTA] Shadow - SPDD" systemid="QAS" mode="1" server="10.134.10.93:3262" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="101a6aff-e4ab-40d3-b04e-200533dc5d03" name="[EPTA] ECC - Quality" systemid="QER" mode="1" server="10.134.10.10:3206" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="a6367eb8-af34-4173-a4a2-2b96ceb001d9" name="[EPTA] ECC - Sviluppo" systemid="DEV" mode="1" server="10.134.11.11:3211" sncop="-1" dcpg="2"/><Service type="SAPGUI" uuid="f4f58cd4-37ee-45a5-8e33-9678d316c6cb" name="[Bonfiglioli] - Sandbox S4H" systemid="DS4" mode="1" server="10.186.16.5:3200" sncop="-1" dcpg="2"/></Services>
+	<Messageservers>
+		<Messageserver uuid="30f5ca61-4c08-4ca6-8496-1af917e49d20" name="PGE" host="pggap1s4pge.piaggio.com" port="3601"/>
+		<Messageserver uuid="30f5ca61-4c08-4ca6-8496-1af917e49d26" name="PGC" host="pggap1s4pgc.piaggio.com" port="3601"/>
+		<Messageserver uuid="959b850a-d5e0-485b-be07-29ea59fbfd6a" name="PGP" host="pgghdbsap1.piaggio.com" port="3601"/>
+		<Messageserver uuid="96e34a2c-42fb-44f0-b45f-a3d6307566c0" name="SLP" host="pggsltprd.piaggio.com" port="3601"/>
+		<Messageserver uuid="8e3e1903-8b3b-46fe-9045-0b0d48c0569c" name="SLT" host="pggsltst.piaggio.com" port="3601"/>
+		<Messageserver uuid="30f5ca61-4c08-4ca6-8496-1af917e49d17" name="SMS" host="pggsolsv1.piaggio.com" port="3601"/>
+		<Messageserver uuid="30f5ca61-4c08-4ca6-8496-1af917e49d19" name="SMP" host="pggsolpr1.piaggio.com" port="3601"/>
+		<Messageserver uuid="6df65f6e-b878-40b6-b1ea-ea39d99998eb" name="SMT" host="pggsmtst.piaggio.com" port="3601"/>
+		<Messageserver uuid="de38921e-e89f-417c-bb75-1c4f8a6d4468" name="SPM" host="pggprtts.piaggio.com" port="3602"/>
+	</Messageservers>
+	<Includes>
+		<Include url="file:///C:/Users/it-pc-DWF7CK3/AppData/Roaming/SAP/Common/SAPUILandscapeGlobal.xml" index="0" description="SAP Reserved"/>
+	</Includes>
+	<Routers><Router uuid="126c2ce8-f908-4e4f-aa66-b821f58b31e5" name="/H/172.25.1.87" description="/H/172.25.1.87" router="/H/172.25.1.87"/></Routers></Landscape>
